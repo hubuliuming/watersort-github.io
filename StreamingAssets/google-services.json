@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "532697854900",
+    "project_id": "water-sort-puzzle-mod",
+    "storage_bucket": "water-sort-puzzle-mod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532697854900:android:3a78276a15d7e38e3f38e1",
+        "android_client_info": {
+          "package_name": "com.cmgame.watersortpuzzlemod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532697854900-n11n7bc59r2tglqk1t4ujto60d1kp49v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX9J4Z9SMJubK1XwkXkFqH2tLiy8iv-Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532697854900-n11n7bc59r2tglqk1t4ujto60d1kp49v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
